@@ -1,7 +1,7 @@
 
 # Trader Behavior vs Market Sentiment - Web3 Trading Team Assignment
 
-#Please run all the cells of the notebook first, for creating the project structure on run.
+# Please run all the cells of the notebook first, for creating the project structure on run.
 
 
 ## One-Click Access
