@@ -9,7 +9,7 @@
 - GitHub repo: <https://github.com/rayyan776/web3-trader-sentiment-ds.git>
 
 
-Make sure Colab sharing is set to "Anyone with the link can view" and the GitHub repo is public.
+
 
 ## How to Run (Colab)
 1. Open `notebook_1.ipynb` in Google Colab.
